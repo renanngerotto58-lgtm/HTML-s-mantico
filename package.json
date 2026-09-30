@@ -1,0 +1,36 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "pagina web <div style=\"white-space:pre-wrap;font-family:Consolas;color:#d8dee9;background-color:#303841;-moz-tab-size:4;tab-size:4;\"><span style=\"color:#5fb4b4;\">&lt;!</span><span style=\"color:#c695c6;font-style:italic;\">DOCTYPE</span> <span style=\"color:#ec5f66;font-style:italic;\">html</span><span style=\"color:#5fb4b4;\">></span><br></div>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanngerotto58-lgtm/HTML-s-mantico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanngerotto58-lgtm/HTML-s-mantico/issues"
+  },
+  "homepage": "https://github.com/renanngerotto58-lgtm/HTML-s-mantico#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "next": "^16.3.8",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/react": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.8",
+    "typescript": "^7.0.2"
+  }
+}
